@@ -1,0 +1,7 @@
+kucoin:
+  SL: 0     # Stop loss counter
+  W/L: 0    # profit | loss 
+  buy: 0    # buy orders count
+  sell: 3   # Sell orders count
+  w_buy: 0  # winning Buy orders count
+  w_sell: 0 # winning Sell orders count
